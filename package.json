@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/guitischer/mycontacts-backend/issues"
   },
-  "homepage": "https://github.com/guitischer/mycontacts-backend#readme"
+  "homepage": "https://github.com/guitischer/mycontacts-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
