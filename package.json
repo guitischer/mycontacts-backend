@@ -1,0 +1,25 @@
+{
+  "name": "mycontacts-backend",
+  "version": "1.0.0",
+  "description": "API to store contacts",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guitischer/mycontacts-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "backend",
+    "api"
+  ],
+  "author": "Guilherme Tischer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guitischer/mycontacts-backend/issues"
+  },
+  "homepage": "https://github.com/guitischer/mycontacts-backend#readme"
+}
